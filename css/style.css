@@ -1,0 +1,56 @@
+body  { 
+	padding: 0;
+	margin: 0;
+}
+body form{
+	padding:20px;
+	margin:10px
+}
+
+body nav{
+	position:relative;
+	position:fixed
+
+}
+body nav #logout{
+	position:relative;
+	right:-10px
+}
+
+body nav #login{
+	position:relative;
+	right:-400px
+}
+
+ul{
+	overflow: hidden;
+}
+
+li{
+	float: left;
+	display: inline;
+	margin-left: 10px;
+	padding-left: 10px;
+}
+
+video{
+	padding: 0;
+	margin: 0;
+	top: -50px;
+}
+
+#home_h2{
+	color: #3899c9;
+	margin-top:10px;
+}
+
+#vid {
+    margin: auto;
+    width: 820px;
+    height: 500px;
+    padding: 10px
+}
+
+body form #frm{
+			float:left
+}
